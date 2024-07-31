@@ -1,0 +1,5 @@
+opencv-python
+Pillow
+pandas
+tkinterdnd2
+requests

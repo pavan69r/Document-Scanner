@@ -21,5 +21,5 @@ Ensure you have the following installed:
 ### Installation Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/document-scanner-app.git
+   git clone https://github.com/pavan69r/Document-Scanner.git
    cd document-scanner-app
